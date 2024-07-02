@@ -24,7 +24,7 @@
 ### :woman_technologist: About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-I enjoy the journey of learning new languages and frameworks, reading documents, following tutorials, and working on side projects. 
+I relish the journey of learning new languages and frameworks, diving into documentation, following tutorials, and working on side projects.
 
 - :telescope: I’m currently enrolled as a Master's student at Texas A&M University
 - :seedling: Exploring Technical Content Writing.
