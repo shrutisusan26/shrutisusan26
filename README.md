@@ -1,15 +1,13 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFqemg5dnhobWpzdGxma3c0eWc2MXUwMG1sMHd5bnNwcWdkODRnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRhemc0NHdoc2FndDZ3ejYwZmc0NTE4azVxdmo0OXF3YXJtaTNxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unxCGmTuBvwo2djRLA/giphy.gif" width="200"/>
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/shruti-mathews/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://leetcode.com/u/Shruti2000/">
     <img src="https://img.shields.io/badge/Leetcode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+
 </div>
   <h1>
   hey there , i'm shruti mathews
@@ -31,7 +29,7 @@ I enjoy the journey of learning new languages and frameworks, reading documents,
 - :telescope: I’m currently enrolled as a Master's student at Texas A&M University
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems on GeeksforGeeks / Leetcode and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shruti-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-mathews/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shruti-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-mathews/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
