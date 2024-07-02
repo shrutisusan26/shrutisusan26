@@ -1,5 +1,5 @@
-### Hi there 👋
 ![Header](./header.png)
+### Hi there , I'm Shruti Mathews 👋
 
 I'm Shruti Mathews from India and I am a software developer. I enjoy the journey of learning new languages and frameworks, reading documents, following tutorials, and working on side projects. You can connect with me on LinkedIn: https://www.linkedin.com/in/shruti-mathews/ and check out my Leetcode profile at https://leetcode.com/u/Shruti2000/
 
