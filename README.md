@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/shruti-mathews/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/u/Shruti2000/">
+  <a href="https://leetcode.com/u/Susan1967/">
     <img src="https://img.shields.io/badge/Leetcode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
 
